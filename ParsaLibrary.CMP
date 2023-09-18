@@ -1,15 +1,14 @@
-Component   : DIP-18
+Component   : PCBComponent_1 - duplicate
 PCB Library : ParsaLibrary.PcbLib
-Date        : 16/02/2021
-Time        : 10:03:11 Þ.Ù
+Date        : 9/18/2023
+Time        : 10:39:38 PM
 
 
 
-Dimension : 10.516 x 22.86 mm
+Dimension : 7.01 x 5.08 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          5        0       1        0
- Multi Layer                18          0        0       0        0
+ Top Overlay                 0         11        0       2        0
 --------------------------------------------------------------------
- Total                      18          5        0       1        0
+ Total                       0         11        0       2        0
